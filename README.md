@@ -35,7 +35,7 @@ Every module in this roadmap follows the same rigorous format:
 
 | Module | Topic | Flagship Project |
 |--------|-------|-------------------|
-| 1 | [LLM Fundamentals](module-1-llm-fundamentals/README.md) | Streaming AI chatbot w/ cost tracking |
+| 1 | [LLM Fundamentals](#module-1--llm-fundamentals) | Streaming AI chatbot w/ cost tracking |
 | 2 | [Prompt Engineering](#module-2--prompt-engineering) | Resume analyzer / SQL generator |
 | 3 | [Embeddings](#module-3--embeddings) | Semantic search engine |
 | 4 | [Similarity Search](#module-4--similarity-search) | Product / code search engine |
@@ -73,7 +73,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 2 — Prompt Engineering
+## [Module 2 — Prompt Engineering](module-2-prompt-engineering/README.md)
 
 **Topics**
 - Zero-shot prompting
@@ -94,7 +94,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 3 — Embeddings
+## [Module 3 — Embeddings](module-3-embeddings/README.md)
 
 **Topics**
 - What embeddings are
@@ -112,7 +112,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 4 — Similarity Search
+## [Module 4 — Similarity Search](module-4-similarity-search/README.md)
 
 **Topics**
 - Exact search vs. Approximate Nearest Neighbor (ANN)
@@ -129,7 +129,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 5 — Vector Databases
+## [Module 5 — Vector Databases](module-5-vector-databases/README.md)
 
 **Topics**
 - Why vector databases exist
@@ -147,7 +147,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 6 — RAG
+## [Module 6 — RAG](module-6-rag/README.md)
 *One of the most important modules.*
 
 **Topics**
@@ -171,7 +171,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 7 — LangChain
+## [Module 7 — LangChain](module-7-langchain/README.md)
 
 **Topics**
 - Chains
@@ -191,7 +191,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 8 — LangGraph
+## [Module 8 — LangGraph](module-8-langgraph/README.md)
 
 **Topics**
 - State graphs
@@ -210,7 +210,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 9 — Agentic AI
+## [Module 9 — Agentic AI](module-9-agentic-ai/README.md)
 
 **Topics**
 - ReAct
@@ -228,7 +228,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 10 — Multi-Agent AI
+## [Module 10 — Multi-Agent AI](module-10-multi-agent-ai/README.md)
 
 **Topics**
 - Planner agent
@@ -246,7 +246,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 11 — CrewAI
+## [Module 11 — CrewAI](module-11-crewai/README.md)
 
 **Topics**
 - Crews
@@ -264,7 +264,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## Module 12 — Production AI
+## [Module 12 — Production AI](module-12-production-ai/README.md)
 *This is where backend engineering expertise becomes a major advantage.*
 
 **Topics**
