@@ -35,22 +35,22 @@ Every module in this roadmap follows the same rigorous format:
 
 | Module | Topic | Flagship Project |
 |--------|-------|-------------------|
-| 1 | [LLM Fundamentals](#module-1--llm-fundamentals) | Streaming AI chatbot w/ cost tracking |
-| 2 | [Prompt Engineering](#module-2--prompt-engineering) | Resume analyzer / SQL generator |
-| 3 | [Embeddings](#module-3--embeddings) | Semantic search engine |
-| 4 | [Similarity Search](#module-4--similarity-search) | Product / code search engine |
-| 5 | [Vector Databases](#module-5--vector-databases) | Multi-tenant knowledge base |
-| 6 | [RAG](#module-6--rag) | PDF / documentation chatbot |
-| 7 | [LangChain](#module-7--langchain) | AI research assistant |
-| 8 | [LangGraph](#module-8--langgraph) | AI interview platform |
-| 9 | [Agentic AI](#module-9--agentic-ai) | Autonomous travel planner |
+| 01 | [LLM Fundamentals](#module-01--llm-fundamentals) | Streaming AI chatbot w/ cost tracking |
+| 02 | [Prompt Engineering](#module-02--prompt-engineering) | Resume analyzer / SQL generator |
+| 03 | [Embeddings](#module-03--embeddings) | Semantic search engine |
+| 04 | [Similarity Search](#module-04--similarity-search) | Product / code search engine |
+| 05 | [Vector Databases](#module-05--vector-databases) | Multi-tenant knowledge base |
+| 06 | [RAG](#module-06--rag) | PDF / documentation chatbot |
+| 07 | [LangChain](#module-07--langchain) | AI research assistant |
+| 08 | [LangGraph](#module-08--langgraph) | AI interview platform |
+| 09 | [Agentic AI](#module-09--agentic-ai) | Autonomous travel planner |
 | 10 | [Multi-Agent AI](#module-10--multi-agent-ai) | AI software development team |
 | 11 | [CrewAI](#module-11--crewai) | Automated content pipeline |
 | 12 | [Production AI](#module-12--production-ai) | Full production AI platform |
 
 
 
-## [Module 1 — LLM Fundamentals](module-1-llm-fundamentals/README.md)
+## [Module 01 — LLM Fundamentals](module-01-llm-fundamentals/README.md)
 
 **Topics**
 - Tokenization
@@ -73,7 +73,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 2 — Prompt Engineering](module-2-prompt-engineering/README.md)
+## [Module 02 — Prompt Engineering](module-02-prompt-engineering/README.md)
 
 **Topics**
 - Zero-shot prompting
@@ -94,7 +94,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 3 — Embeddings](module-3-embeddings/README.md)
+## [Module 03 — Embeddings](module-03-embeddings/README.md)
 
 **Topics**
 - What embeddings are
@@ -112,7 +112,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 4 — Similarity Search](module-4-similarity-search/README.md)
+## [Module 04 — Similarity Search](module-04-similarity-search/README.md)
 
 **Topics**
 - Exact search vs. Approximate Nearest Neighbor (ANN)
@@ -129,7 +129,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 5 — Vector Databases](module-5-vector-databases/README.md)
+## [Module 05 — Vector Databases](module-05-vector-databases/README.md)
 
 **Topics**
 - Why vector databases exist
@@ -147,7 +147,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 6 — RAG](module-6-rag/README.md)
+## [Module 06 — RAG](module-06-rag/README.md)
 *One of the most important modules.*
 
 **Topics**
@@ -171,7 +171,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 7 — LangChain](module-7-langchain/README.md)
+## [Module 07 — LangChain](module-07-langchain/README.md)
 
 **Topics**
 - Chains
@@ -191,7 +191,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 8 — LangGraph](module-8-langgraph/README.md)
+## [Module 08 — LangGraph](module-08-langgraph/README.md)
 
 **Topics**
 - State graphs
@@ -210,7 +210,7 @@ Every module in this roadmap follows the same rigorous format:
 
 
 
-## [Module 9 — Agentic AI](module-9-agentic-ai/README.md)
+## [Module 09 — Agentic AI](module-09-agentic-ai/README.md)
 
 **Topics**
 - ReAct

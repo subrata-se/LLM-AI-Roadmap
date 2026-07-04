@@ -1,4 +1,4 @@
-# Module 3 - Embeddings
+# Module 03 - Embeddings
 
 This module teaches how text, documents, products, code, and other objects can be represented as vectors for search, clustering, recommendations, and retrieval.
 
@@ -156,7 +156,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-3-embeddings/
+module-03-embeddings/
   01-what-embeddings-are/
   02-vector-representations/
   03-dimensionality/

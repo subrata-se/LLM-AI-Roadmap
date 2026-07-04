@@ -1,4 +1,4 @@
-# Module 1 - LLM Fundamentals
+# Module 01 - LLM Fundamentals
 
 This module builds a deep foundation for understanding, using, and designing systems around large language models. The goal is not only to call an API, but to understand what happens before, during, and after an LLM generates a response.
 
@@ -197,7 +197,7 @@ User flow diagram:
 10. Client receives the final streamed response
 ```
 
-For the Module 1 project, we will build toward a streaming AI chatbot with:
+For the Module 01 project, we will build toward a streaming AI chatbot with:
 
 - Streaming responses
 - Conversation memory
@@ -256,15 +256,15 @@ Each topic has its own README and a runnable Python script:
 
 | # | Topic | Hands-on script |
 |---|-------|-----------------|
-| 1 | [Tokenization](01-tokenization/README.md) | [token_counter.py](01-tokenization/token_counter.py) |
-| 2 | [Context windows](02-context-windows/README.md) | [context_budget.py](02-context-windows/context_budget.py) |
-| 3 | [Attention](03-attention/README.md) | [attention_demo.py](03-attention/attention_demo.py) |
-| 4 | [Transformers conceptually](04-transformers-conceptually/README.md) | [transformer_flow.py](04-transformers-conceptually/transformer_flow.py) |
-| 5 | [Temperature](05-temperature/README.md) | [temperature_sampling.py](05-temperature/temperature_sampling.py) |
-| 6 | [Top-p](06-top-p/README.md) | [top_p_sampling.py](06-top-p/top_p_sampling.py) |
-| 7 | [Hallucinations](07-hallucinations/README.md) | [hallucination_guard.py](07-hallucinations/hallucination_guard.py) |
-| 8 | [Function calling](08-function-calling/README.md) | [function_calling_router.py](08-function-calling/function_calling_router.py) |
-| 9 | [Structured outputs](09-structured-outputs/README.md) | [structured_output_validation.py](09-structured-outputs/structured_output_validation.py) |
+| 01 | [Tokenization](01-tokenization/README.md) | [token_counter.py](01-tokenization/token_counter.py) |
+| 02 | [Context windows](02-context-windows/README.md) | [context_budget.py](02-context-windows/context_budget.py) |
+| 03 | [Attention](03-attention/README.md) | [attention_demo.py](03-attention/attention_demo.py) |
+| 04 | [Transformers conceptually](04-transformers-conceptually/README.md) | [transformer_flow.py](04-transformers-conceptually/transformer_flow.py) |
+| 05 | [Temperature](05-temperature/README.md) | [temperature_sampling.py](05-temperature/temperature_sampling.py) |
+| 06 | [Top-p](06-top-p/README.md) | [top_p_sampling.py](06-top-p/top_p_sampling.py) |
+| 07 | [Hallucinations](07-hallucinations/README.md) | [hallucination_guard.py](07-hallucinations/hallucination_guard.py) |
+| 08 | [Function calling](08-function-calling/README.md) | [function_calling_router.py](08-function-calling/function_calling_router.py) |
+| 09 | [Structured outputs](09-structured-outputs/README.md) | [structured_output_validation.py](09-structured-outputs/structured_output_validation.py) |
 | 10 | [Model selection](10-model-selection/README.md) | [model_selection_router.py](10-model-selection/model_selection_router.py) |
 
 ## Hands-On Project

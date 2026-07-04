@@ -1,4 +1,4 @@
-# Module 7 - LangChain
+# Module 07 - LangChain
 
 This module teaches how LangChain can be used to compose prompts, models, retrievers, memory, tools, callbacks, and streaming into LLM applications.
 
@@ -151,7 +151,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-7-langchain/
+module-07-langchain/
   01-chains/
   02-lcel/
   03-prompt-templates/

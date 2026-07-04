@@ -1,4 +1,4 @@
-# Module 2 - Prompt Engineering
+# Module 02 - Prompt Engineering
 
 This module teaches how to design prompts as reliable interfaces between users, applications, tools, and LLMs. The goal is to move from casual prompting to production-grade prompt design.
 
@@ -172,7 +172,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-2-prompt-engineering/
+module-02-prompt-engineering/
   01-zero-shot-prompting/
   02-one-shot-prompting/
   03-few-shot-prompting/

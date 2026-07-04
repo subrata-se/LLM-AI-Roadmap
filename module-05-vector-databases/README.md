@@ -1,4 +1,4 @@
-# Module 5 - Vector Databases
+# Module 05 - Vector Databases
 
 This module teaches how vector databases store, index, filter, update, and scale embedding-powered applications.
 
@@ -148,7 +148,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-5-vector-databases/
+module-05-vector-databases/
   01-why-vector-databases-exist/
   02-indexing/
   03-sharding/

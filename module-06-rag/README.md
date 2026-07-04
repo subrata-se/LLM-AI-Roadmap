@@ -1,4 +1,4 @@
-# Module 6 - RAG
+# Module 06 - RAG
 
 This module teaches retrieval-augmented generation: using external knowledge to ground LLM answers in documents, data, and citations.
 
@@ -151,7 +151,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-6-rag/
+module-06-rag/
   01-chunking/
   02-recursive-chunking/
   03-metadata/

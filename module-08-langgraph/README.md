@@ -1,4 +1,4 @@
-# Module 8 - LangGraph
+# Module 08 - LangGraph
 
 This module teaches how to build stateful, controllable, long-running LLM workflows with graph-based execution.
 
@@ -144,7 +144,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-8-langgraph/
+module-08-langgraph/
   01-state-graphs/
   02-nodes/
   03-edges/

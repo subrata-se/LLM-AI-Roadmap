@@ -1,4 +1,4 @@
-# Module 9 - Agentic AI
+# Module 09 - Agentic AI
 
 This module teaches how LLM systems can plan, use tools, reflect, manage memory, and execute multi-step tasks with controlled autonomy.
 
@@ -151,7 +151,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-9-agentic-ai/
+module-09-agentic-ai/
   01-react/
   02-planning/
   03-reflection/

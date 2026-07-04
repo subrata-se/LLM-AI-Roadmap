@@ -1,4 +1,4 @@
-# Module 4 - Similarity Search
+# Module 04 - Similarity Search
 
 This module teaches how systems find nearest or most relevant items from vectors, metadata, and hybrid search signals.
 
@@ -138,7 +138,7 @@ Each topic folder we create later should follow this structure:
 We will add topic folders later:
 
 ```text
-module-4-similarity-search/
+module-04-similarity-search/
   01-exact-vs-ann/
   02-hnsw/
   03-ivf/
